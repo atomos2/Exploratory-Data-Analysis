@@ -1,1 +1,2 @@
 # Exploratory-Data-Analysis
+This is a portfolio project, this is a guided project which has been completed by me when I was following the Data Anlaysis Bootcamp by Alex The Analyst https://www.youtube.com/@AlexTheAnalyst. While performing the EDA, I followed through the video and gained the understanding and importance of EDA. This project uses a huge layoffs dataset which includes more than 4000 rows.
